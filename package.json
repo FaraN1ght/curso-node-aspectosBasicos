@@ -1,0 +1,16 @@
+{
+  "name": "03-basesnode",
+  "version": "0.0.1",
+  "description": "Tabla de multiplicar simple",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "correrApp": "node D:/Documentos/CURSOS/NODEJS/03-BASESNODE/app.js"
+  },
+  "author": "josue erazo",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.4.1"
+  }
+}
